@@ -2401,7 +2401,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #00AAFF;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2699,7 +2699,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #00AAFF;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -3075,7 +3075,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #00AAFF;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
